@@ -4,7 +4,7 @@ Hi 👋 My name is Jet Zhuang
 Cloud Engineer  Cyber Security Engineer and Software Developer
 ------------------
 
-A passionate Full-Stack Software Developer having experience in building Web and Mobile applications with JavaScript / React.js / Next.js / Nodejs / React Native and some other cool libraries and frameworks.
+
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [jetz2023@gmail.com](mailto:jetz2023@gmail.com)
