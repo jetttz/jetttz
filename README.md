@@ -11,6 +11,7 @@ Cloud Engineer  Cyber Security Engineer and Software Developer
 * 🧠  I'm learning AWS, along with Kubernetes.
 * 🤝  I'm open to collaborating on  Cyber security,and DevOps,.
 * ⚡  A FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK
+*  AWS Certified Developer – Associate
 
 ### Skills
 
