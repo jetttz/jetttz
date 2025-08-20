@@ -1,7 +1,7 @@
 Hi 👋 My name is Jet Zhuang
 ===================================
 
-Cloud Engineer,Cyber Security Engineer and Software Developer
+Software Developer
 ------------------
 
 
