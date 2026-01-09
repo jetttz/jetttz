@@ -7,7 +7,7 @@ Software Developer
 
 
 * 🌍  I'm based in Texas
-* ✉️  You can contact me at [jetz2025@gmail.com](mailto:jetz2025@gmail.com)
+* ✉️  You can contact me at [jetz2029@gmail.com](mailto:jetz2029@gmail.com)
 * 🧠  I'm learning AWS, along with Kubernetes.
 * 🤝  I'm open to collaborating on  Cyber security,and DevOps,.
 * ⚡  A FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK
